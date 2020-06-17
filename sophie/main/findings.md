@@ -11,3 +11,7 @@ Then there is an image labelled XOR.png (what do I xor it with the binary?)
 and there is binary underneath
 Going to /server-status leads to another page
 queenkxfax3izzer.onion:80
+
+Also in the source code of the page is a url at the bottom to a user on blackhatworld.com
+(presumably sophie or the site's creator) but it can only be accessed with an account on the
+site
